@@ -1,9 +1,9 @@
 
-import AnsReport from '@/Compo/AnsReport';
-import Button from '@/Compo/Button';
-import ButtonGroups from '@/Compo/ButtonGroups';
-import Name from '@/Compo/Name';
-import QuizTopicButton from '@/Compo/QuizTopicButton';
+import AnsReport from '@/Components/AnsReport';
+import Button from '@/Components/Button';
+import ButtonGroups from '@/Components/ButtonGroups';
+import Name from '@/Components/Name';
+import QuizTopicButton from '@/Components/QuizTopicButton';
 import '@/styles/globals.css'
 
 import PageContext from './Context/PageContext';
